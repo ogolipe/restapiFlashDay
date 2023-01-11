@@ -1,0 +1,31 @@
+
+{
+    "reservas": [
+        {"__comment1__": "Reservas é a rota, dentro dos colchetes os atributos"},
+        {"id": 1, "clienteID": 1, "data": "01/01/2023", "flashID":1010},
+        {"id": 2, "clienteID": 2, "data": "03/01/2023", "flashID":2020},
+        {"id": 3, "clienteID": 3, "data": "05/01/2023", "flashID":3030},
+        {"id": 4, "clienteID": 4, "data": "08/01/2023", "flashID":4040}
+    ],
+
+    "flashs": [
+        {"id": 1010, "nome": "Escaravelho", "tatuadorID": "20", "valor": 80},
+        {"id": 2020, "nome": "Âncora", "tatuadorID": "30", "valor": 150},
+        {"id": 3030, "nome": "Rosa", "tatuadorID": "40", "valor": 130},
+        {"id": 4040, "nome": "Abelha", "tatuadorID": "50", "valor": 200}
+    ],
+
+    "clientes": [
+        {"id": 100, "nome": "Matheus", "CPF": "111.111.111-11", "telefone":"99999-9999"},
+        {"id": 200, "nome": "Gustavo", "CPF": "111.111.111-22", "telefone":"99999-9988"},
+        {"id": 300, "nome": "Laís", "CPF": "111.111.111-33", "telefone":"99999-9977"},
+        {"id": 400, "nome": "Débora", "CPF": "111.111.111-44", "telefone":"99999-9966"}
+    ],
+
+    "tatuadores": [
+        {"id": 20, "nome": "Yumaru", "CPF": "111.111.111-11", "telefone":"99999-9999"},
+        {"id": 30, "nome": "Sabrina", "CPF": "111.111.111-22", "telefone":"99999-9988"},
+        {"id": 40, "nome": "Yaya", "CPF": "111.111.111-33", "telefone":"99999-9977"},
+        {"id": 50, "nome": "Lucalt", "CPF": "111.111.111-44", "telefone":"99999-9966"}
+    ]
+  }

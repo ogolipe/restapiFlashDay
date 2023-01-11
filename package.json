@@ -2,8 +2,9 @@
   "name": "restapiflashday",
   "version": "1.0.0",
   "description": "Projeto proposto no 3º módulo do curso Programadores Cariocas.",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
+    "start":"json-server --watch db.json",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
