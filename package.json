@@ -1,0 +1,23 @@
+{
+  "name": "restapiflashday",
+  "version": "1.0.0",
+  "description": "Projeto proposto no 3º módulo do curso Programadores Cariocas.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ogolipe/restapiFlashDay.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ogolipe/restapiFlashDay/issues"
+  },
+  "homepage": "https://github.com/ogolipe/restapiFlashDay#readme",
+  "dependencies": {
+    "json-server": "^0.17.1"
+  }
+}
