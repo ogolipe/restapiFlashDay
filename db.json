@@ -23,9 +23,9 @@
     ],
 
     "tatuadores": [
-        {"id": 20, "nome": "Yumaru", "CPF": "111.111.111-11", "telefone":"99999-9999"},
-        {"id": 30, "nome": "Sabrina", "CPF": "111.111.111-22", "telefone":"99999-9988"},
-        {"id": 40, "nome": "Yaya", "CPF": "111.111.111-33", "telefone":"99999-9977"},
-        {"id": 50, "nome": "Lucalt", "CPF": "111.111.111-44", "telefone":"99999-9966"}
+        {"id": 20, "nome": "Yumaru", "CPF": "111.111.111-55", "telefone":"99999-9911"},
+        {"id": 30, "nome": "Sabrina", "CPF": "111.111.111-66", "telefone":"99999-9922"},
+        {"id": 40, "nome": "Yaya", "CPF": "111.111.111-77", "telefone":"99999-9933"},
+        {"id": 50, "nome": "Lucalt", "CPF": "111.111.111-88", "telefone":"99999-9944"}
     ]
   }
